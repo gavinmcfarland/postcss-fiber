@@ -1,4 +1,4 @@
-# Fiber
+# PostCSS Fiber
 
 [![NPM Version][npm-img]][npm-url]
 [![Linux Build Status][cli-img]][cli-url]
