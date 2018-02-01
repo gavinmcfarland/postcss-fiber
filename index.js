@@ -5,6 +5,7 @@ const postcss = require('postcss');
 const plugins = {
 	sequence: require('postcss-sequence'),
 	negativePadding: require('postcss-negative-padding'),
+	layouts: require('postcss-layouts'),
 	gutters: require('postcss-gutters')
 };
 

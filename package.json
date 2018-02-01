@@ -28,7 +28,8 @@
     "postcss": "^6.0",
     "postcss-gutters": "^0.1.2",
     "postcss-negative-padding": "^0.0.5",
-    "postcss-sequence": "^1.1.2"
+    "postcss-sequence": "^1.1.2",
+    "postcss-layouts": "^0.0.1"
   },
   "devDependencies": {
     "babel-core": "^6.26",
