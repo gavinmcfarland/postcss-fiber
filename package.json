@@ -1,6 +1,6 @@
 {
   "name": "postcss-fiber",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "",
   "author": "Gavin <someotter@tadpot.com>",
   "license": "CC0-1.0",
@@ -26,10 +26,10 @@
   },
   "dependencies": {
     "postcss": "^6.0",
-    "postcss-gutters": "^0.1.6",
+    "postcss-gutters": "^0.1.7",
     "postcss-negative-padding": "^0.0.5",
     "postcss-sequence": "^1.1.2",
-    "postcss-layouts": "^0.1.3"
+    "postcss-layouts": "^0.1.4"
   },
   "devDependencies": {
     "babel-core": "^6.26",
