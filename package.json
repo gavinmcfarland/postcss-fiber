@@ -25,18 +25,18 @@
     "node": ">=4.0.0"
   },
   "dependencies": {
-    "postcss": "^6.0",
+    "postcss": "^6.0.17",
     "postcss-gutters": "^0.2.0",
+    "postcss-layouts": "^0.1.5",
     "postcss-negative-padding": "^0.0.5",
-    "postcss-sequence": "^1.1.2",
-    "postcss-layouts": "^0.1.4"
+    "postcss-sequence": "^1.1.2"
   },
   "devDependencies": {
     "babel-core": "^6.26",
     "babel-eslint": "^8.1",
     "babel-preset-env": "^1.6",
     "echint": "^4.0",
-    "eslint": "^4.14",
+    "eslint": "^4.17.0",
     "eslint-config-dev": "2.0",
     "postcss-tape": "2.2",
     "pre-commit": "^1.2",
