@@ -26,8 +26,8 @@
   },
   "dependencies": {
     "postcss": "^6.0.17",
-    "postcss-gutters": "^0.2.7",
-    "postcss-layouts": "^0.1.6",
+    "postcss-gutters": "^0.2.9",
+    "postcss-layouts": "^0.1.8",
     "postcss-negative-padding": "^0.0.5",
     "postcss-sequence": "^1.1.2"
   },
