@@ -30,11 +30,11 @@
     "postcss-layouts": "^0.3.3",
     "postcss-negative-padding": "^0.0.7",
     "postcss-sequence": "^1.1.2",
-    "postcss-exact-width": "^0.0.1"
+    "postcss-exact-width": "^0.1.0"
   },
   "devDependencies": {
     "babel-core": "^6.26",
-    "babel-eslint": "^8.1",
+    "babel-eslint": "^8.2.2",
     "babel-preset-env": "^1.6",
     "echint": "^4.0",
     "eslint": "^4.18.0",

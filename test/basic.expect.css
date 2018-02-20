@@ -1,3 +1,7 @@
+:root {
+	--row-grow: 0;
+	--column-grow: initial;
+}
 .test {
 	padding-top: 80px;
 	padding-right: 80px;
