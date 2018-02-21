@@ -28,7 +28,7 @@
     "postcss": "^6.0.19",
     "postcss-exact-width": "^0.1.6",
     "postcss-gutters": "^0.6.0",
-    "postcss-layouts": "^0.3.4",
+    "postcss-layouts": "^0.4.0",
     "postcss-negative-padding": "^0.0.7",
     "postcss-sequence": "^1.1.2"
   },
