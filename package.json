@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "postcss": "^6.0.19",
-    "postcss-exact-width": "^0.1.0",
+    "postcss-exact-width": "^0.1.1",
     "postcss-gutters": "^0.6.0",
     "postcss-layouts": "^0.3.4",
     "postcss-negative-padding": "^0.0.7",
@@ -37,7 +37,7 @@
     "babel-eslint": "^8.2.2",
     "babel-preset-env": "^1.6",
     "echint": "^4.0",
-    "eslint": "^4.18.0",
+    "eslint": "^4.18.1",
     "eslint-config-dev": "2.0",
     "postcss-tape": "2.2",
     "pre-commit": "^1.2",
