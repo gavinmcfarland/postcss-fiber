@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "postcss": "^6.0.19",
-    "postcss-exact-width": "^0.1.3",
+    "postcss-exact-width": "^0.1.4",
     "postcss-gutters": "^0.6.0",
     "postcss-layouts": "^0.3.4",
     "postcss-negative-padding": "^0.0.7",
